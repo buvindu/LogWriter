@@ -1,0 +1,4 @@
+G:\Pristine\#Project\#Commen\Dll\LogWriter\LogWriter\LogWriter\bin\Debug\LogWriter.dll
+G:\Pristine\#Project\#Commen\Dll\LogWriter\LogWriter\LogWriter\bin\Debug\LogWriter.pdb
+G:\Pristine\#Project\#Commen\Dll\LogWriter\LogWriter\LogWriter\obj\Debug\LogWriter.dll
+G:\Pristine\#Project\#Commen\Dll\LogWriter\LogWriter\LogWriter\obj\Debug\LogWriter.pdb
